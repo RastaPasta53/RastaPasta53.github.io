@@ -109,6 +109,14 @@ strong, b {
 img {
   max-width: 100%;
 }
+table {
+    width: 100%;
+}
+
+th {
+    height: 50px;
+}
+
 
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
