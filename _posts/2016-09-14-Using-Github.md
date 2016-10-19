@@ -1,5 +1,5 @@
 ---
-title: Using Github
+title: Final Lesson
 layout: post
 author: chris.grint
 permalink: /using-github/
@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Using github</td>
+    <td>Final Lesson </td>
     <td>Date</td>
-    <td>06/09/16</td>
+    <td>19/10/16</td>
   </tr>
 </table>
 
@@ -19,16 +19,16 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>0</td>
+    <td>Blog up and Running </td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To have a Github Pages Static Website</td>
+    <td>To further my knowledge of sheets </td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>No </td>
+    <td>yes</td>
   </tr>
 </table>
 
@@ -41,19 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>This lesson was very unsuccessful because i couldn't progress very far as my email wouldn’t verify and i couldn’t progress any further and complete my goal.</td>
+    <td>Using past knowledge is very important in using computers is what i have found and i used this. The previous lesson we learnt a lt of useful tips and how to use sheets and i used as many as i could combined with my newly learnt knowledge to make a useful business related spreadsheet.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>My email not verifying was the reason why i couldn’t progress any further and that was very disappointing to me and i was looking forward progressing on my work</td>
+    <td>There were multiple obstacles that  had to overcome in my journey of spreadsheets and for most of these obstacles i looked it up in google and that was a very effective technique  and this is useful for the future.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Try and use a different computer that is more effective than this one and will hopefully get further </td>
+    <td>Try to listen consistently throughout the demonstration so that i won't have to look up as much info from google or ask my peers that are much more advanced than me but i do feel that sheets comes to me more naturally than coding this blog.  </td>
   </tr>
 </table>
 
